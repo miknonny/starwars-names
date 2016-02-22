@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/miknonny/starwars-names#readme",
   "dependencies": {
-    "unique-random-array": "1.0.0"
+    "unique-random-array": "1.1.0"
   }
 }
